@@ -23,4 +23,4 @@ Provides these classes::
     plivo.XML.Message
     plivo.XML.DTMF
 
-Each of these classes has ``as_xml`` method which will get you the XML which plivo can understand.
+Each of these classes has ``to_xml`` method which will get you the XML which plivo can understand.
